@@ -12,7 +12,7 @@ This Project involves analyzing a comprehensive dataset from Netflix using MySQL
 Data Set Involve : https://github.com/Sachinth07/sql_netflix/blob/main/netflix_titles.csv
 
 ## Schema
-''' sql
+```sql
 CREATE TABLE netflix
 (
 	show_id	VARCHAR(6),
@@ -28,7 +28,7 @@ CREATE TABLE netflix
 	listed_in	VARCHAR(100),
 	description VARCHAR(250)
 )
-'''
+```
 ## Problem :
 
 15 Business Problems
