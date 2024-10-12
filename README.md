@@ -1,4 +1,4 @@
-# sql_netflix
+# Netflix_data_SQl
 ![Netflix logo](https://github.com/Sachinth07/sql_netflix/blob/main/logo.jpg)
 
 ## Objective
@@ -8,3 +8,5 @@ This Project involves analyzing a comprehensive dataset from Netflix using MySQL
           Data Cleaning :Used SQL functions to clean and preprocess raw data for consistency.
           Complex Queries: Performed advanced SQL queries to analyze user viewing history, popular genres, and content trends.
           Aggregation and Filtering: Utilized aggregate functions like SUM(), COUNT(), AVG(), and GROUP BY to uncover key metrics like average watch time and top-performing shows.
+## Dataset
+Data Set Involve : 
