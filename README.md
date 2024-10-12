@@ -49,6 +49,13 @@ CREATE TABLE netflix
 15. Categorize the content based on the presence of the keywords 'kill' and 'violence' in the description field. Label content containing these keywords as 'Bad' and all other content as 'Good'. Count how many items fall into each Category
 
 
+## Learning Outcomes :
+
+1.Real-World Data Application: Working with real-world Netflix data gave me practical experience in applying SQL skills to a real dataset, which can be directly relevant in a 	professional data analysis or database management role.
+
+2.Problem-Solving and Critical Thinking: This project enhanced my problem-solving abilities, particularly in breaking down complex analysis tasks into manageable steps using SQL.
+
+
 
 
 
