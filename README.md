@@ -1,6 +1,8 @@
 # sql_netflix
 ![Netflix logo](https://github.com/Sachinth07/sql_netflix/blob/main/logo.jpg)
-This project involves analyzing a comprehensive dataset from Netflix using MySQL. The primary goal is to extract meaningful insights from the data, including trends in user behavior, content preferences, and viewing patterns.
+
+
+This Project involves analyzing a comprehensive dataset from Netflix using MySQL. The primary goal is to extract meaningful insights from the data, including trends in user behavior, content preferences, and viewing patterns.
 
 Key Features:
           Data Cleaning :Used SQL functions to clean and preprocess raw data for consistency.
